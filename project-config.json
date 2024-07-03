@@ -1,0 +1,12 @@
+{
+    "name": "kalle",
+    "description": "Kalle -Kotipsykiatri C64",
+    "toolkit": "basic",
+    "sources": [
+        "src/main.bas"
+    ],
+    "build": "release",
+    "definitions": [],
+    "includes": [],
+    "args": []
+}
