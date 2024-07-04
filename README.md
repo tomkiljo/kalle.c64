@@ -8,5 +8,7 @@ Kalle Kotipsykiatri is a Finnish-language conversational computer program, or ch
 
 The source code is hand copied from the program listing published in MikroBitti magazine 1/1984 [^2]. Minor fixes to the source code has been made as the original program listing in the Magazine contained bugs making the program unrunnable. [^1]
 
+Live demo: https://tomkiljo.github.io/kalle.c64/
+
 [^1]: Wikipedia (in Finnish) https://fi.wikipedia.org/wiki/Kalle_Kotipsykiatri
 [^2]: Kasvi, Jyrki J. J.: Kalle Kotipsykiatri. MikroBitti, 1984, issue 1.
